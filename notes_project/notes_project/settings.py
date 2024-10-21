@@ -85,7 +85,7 @@ DATABASES = {
     }
 }
 
-
+#postgresql://notesweb_render_user:i7GpVTJJMGRUTlmnapvmAN9ZIp3uZPsn@dpg-csb17cjtq21c73962a3g-a.oregon-postgres.render.com/notesweb_render
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
 
